@@ -1,6 +1,6 @@
 # Mohamud Faqi
 
-Aspiring Cloud Support Engineer with hands-on experience in deploying and managing AWS services. I build real-world cloud projects that demonstrate my ability to troubleshoot, automate, and explain AWS concepts clearly.
+Aspiring Software Engineer with hands-on experience in deploying and managing AWS services. I build real-world cloud projects that demonstrate my ability to troubleshoot, automate, and explain AWS concepts clearly.
 
 ---
 
